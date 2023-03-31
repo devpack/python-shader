@@ -1,0 +1,51 @@
+{
+  "created_at": "2023-02-19T00:45:53.153426",
+  "version": "0.1",
+  "mtllibs": [
+    "Robik.mtl"
+  ],
+  "vertex_buffers": [
+    {
+      "material": "Material__96",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 0,
+      "byte_length": 20736
+    },
+    {
+      "material": "Material__97",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 20736,
+      "byte_length": 84672
+    },
+    {
+      "material": "Material__100",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 105408,
+      "byte_length": 1728
+    },
+    {
+      "material": "Material__101",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 107136,
+      "byte_length": 1728
+    },
+    {
+      "material": "Material__102",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 108864,
+      "byte_length": 1728
+    },
+    {
+      "material": "Material__98",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 110592,
+      "byte_length": 1728
+    },
+    {
+      "material": "Material__99",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 112320,
+      "byte_length": 1728
+    }
+  ]
+}
